@@ -13,7 +13,7 @@
 
 <h1 align='center'>SobreMim</h1>
 
-<div align='center'>Tenho 17 anos, estou estudando programação através da internet, pretendo seguir nesse ramo tendo em vista que estou gostando bastante de programar,planejo fazer uma faculdade de engenharia da COMPUTAÇÃO pois irá unir duas coisas que sempre admirei e tenho certeza que será oque vai guiar o futuro da humanidade, programação e engenharia.<br><br><br>
+<div align='center'>Tenho 17 anos, estou estudando programação através da internet, pretendo seguir nesse ramo tendo em vista que estou gostando bastante de programar,planejo fazer uma faculdade de engenharia da computação pois irá unir duas coisas que sempre admirei e tenho certeza que será oque vai guiar o futuro da humanidade, programação e engenharia.<br><br><br>
   </div>
   <h1 align=center>Caso queira me contatar</h1>
   <div align='center'>
