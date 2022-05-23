@@ -7,6 +7,8 @@
 <div align='center'>
  &nbsp; &nbsp; &nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/103286871/162536647-7dfb9c4a-55b3-470f-aa4c-6b5c0c1b31bf.png' width =500px>
 </div><br><br>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Varnahal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varnahal&layout=compact&langs_count=7&theme=dracula"/>
 
 <h1 align='center'>Hoje em dia estou me aprofundando no PHP</h1>
 <h2 align='center'>Estou aprendendo como interagir com o banco de dados Mysql ultilizando o php</h2><br><br><br>
