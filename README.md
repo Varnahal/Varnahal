@@ -25,6 +25,3 @@
   <img src='https://user-images.githubusercontent.com/103286871/162546959-b2847242-ea1e-4d4d-bf9d-232d2d55b355.png' width=100px height='120px'>
   <a href='https://www.instagram.com/varnahal0712/'><img src='https://user-images.githubusercontent.com/103286871/162542017-84bbaae3-c38c-41e8-9dd2-5c8a45cc96e5.png' width =100px></a>
 </div>
-<div align='center'>
-  <img src='https://user-images.githubusercontent.com/103286871/162539888-3f689b32-83b3-44f1-b09e-5455137c8b45.svg' width =750px>
-</div>
