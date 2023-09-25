@@ -1,16 +1,15 @@
 <h1 align='center'>Olá eu sou Daniel .-.</h1>
 <h2 align= 'center'>Esse é o meu <strong>GitHub</strong></h2>
-
+<br>
+<h1 align='center'>SobreMim</h1>
+<div align='center'>
+  Tenho 18 anos, estou estudando programação através da internet, pretendo seguir nesse ramo tendo em vista que estou gostando bastante de programar,estou fazendo faculdade de Análise e desenvolvimento de sistemas.<br><br><br>
+</div>
  <br><br>
 <div align='center'>
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Varnahal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varnahal&layout=compact&langs_count=10&theme=radical"/>
 </div>
-
-<h1 align='center'>SobreMim</h1>
-
-<div align='center'>Tenho 18 anos, estou estudando programação através da internet, pretendo seguir nesse ramo tendo em vista que estou gostando bastante de programar,estou fazendo faculdade de engenharia da computação pois une duas coisas que sempre admirei e tenho certeza que será oque vai guiar o futuro da humanidade, programação e engenharia.<br><br><br>
-  </div>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varnahal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <h1 align=center>Caso queira me contatar</h1>
