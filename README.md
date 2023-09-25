@@ -12,13 +12,12 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varnahal&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
-
-
-
 <h1 align='center'>SobreMim</h1>
 
 <div align='center'>Tenho 18 anos, estou estudando programação através da internet, pretendo seguir nesse ramo tendo em vista que estou gostando bastante de programar,estou fazendo faculdade de engenharia da computação pois une duas coisas que sempre admirei e tenho certeza que será oque vai guiar o futuro da humanidade, programação e engenharia.<br><br><br>
   </div>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varnahal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <h1 align=center>Caso queira me contatar</h1>
   <div align='center'>
 <a href='https://www.facebook.com/daniel.marcelinodelima.79'><img src='https://user-images.githubusercontent.com/103286871/162541784-c77696b2-5abd-4c45-b14d-78fb12c74e69.png' width =100px></a>    
