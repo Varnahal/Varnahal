@@ -12,6 +12,8 @@
 </div>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varnahal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <br>
+  <br>
   <h1 align=center>Caso queira me contatar</h1>
   <div align='center'>
 <a href='https://www.facebook.com/daniel.marcelinodelima.79'><img src='https://user-images.githubusercontent.com/103286871/162541784-c77696b2-5abd-4c45-b14d-78fb12c74e69.png' width =100px></a>    
