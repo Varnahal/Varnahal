@@ -1,12 +1,7 @@
 <h1 align='center'>Olá eu sou Daniel .-.</h1>
 <h2 align= 'center'>Esse é o meu <strong>GitHub</strong></h2>
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/103286871/162535137-4fe81e95-16e8-478a-8e44-e6a6fa097448.png' width =500px>
-</div><br>
-<div align='center'>
- &nbsp; &nbsp; &nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/103286871/162536647-7dfb9c4a-55b3-470f-aa4c-6b5c0c1b31bf.png' width =500px>
-</div><br><br>
+ <br><br>
 <div align='center'>
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Varnahal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varnahal&layout=compact&langs_count=10&theme=radical"/>
